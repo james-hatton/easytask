@@ -1,0 +1,9 @@
+C:\github\easytask\EasyTask\bin\Debug\netstandard2.0\EasyTask.deps.json
+C:\github\easytask\EasyTask\bin\Debug\netstandard2.0\EasyTask.dll
+C:\github\easytask\EasyTask\bin\Debug\netstandard2.0\EasyTask.pdb
+C:\github\easytask\EasyTask\obj\Debug\netstandard2.0\EasyTask.csprojResolveAssemblyReference.cache
+C:\github\easytask\EasyTask\obj\Debug\netstandard2.0\EasyTask.csproj.CoreCompileInputs.cache
+C:\github\easytask\EasyTask\obj\Debug\netstandard2.0\EasyTask.AssemblyInfoInputs.cache
+C:\github\easytask\EasyTask\obj\Debug\netstandard2.0\EasyTask.AssemblyInfo.cs
+C:\github\easytask\EasyTask\obj\Debug\netstandard2.0\EasyTask.dll
+C:\github\easytask\EasyTask\obj\Debug\netstandard2.0\EasyTask.pdb

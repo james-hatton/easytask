@@ -1,0 +1,10 @@
+C:\github\easytask\EasyTask.Example\bin\Debug\netcoreapp2.0\EasyTask.Example.deps.json
+C:\github\easytask\EasyTask.Example\bin\Debug\netcoreapp2.0\EasyTask.Example.runtimeconfig.json
+C:\github\easytask\EasyTask.Example\bin\Debug\netcoreapp2.0\EasyTask.Example.runtimeconfig.dev.json
+C:\github\easytask\EasyTask.Example\bin\Debug\netcoreapp2.0\EasyTask.Example.dll
+C:\github\easytask\EasyTask.Example\bin\Debug\netcoreapp2.0\EasyTask.dll
+C:\github\easytask\EasyTask.Example\bin\Debug\netcoreapp2.0\EasyTask.pdb
+C:\github\easytask\EasyTask.Example\obj\Debug\netcoreapp2.0\EasyTask.Example.csprojResolveAssemblyReference.cache
+C:\github\easytask\EasyTask.Example\obj\Debug\netcoreapp2.0\EasyTask.Example.csproj.CoreCompileInputs.cache
+C:\github\easytask\EasyTask.Example\obj\Debug\netcoreapp2.0\EasyTask.Example.AssemblyInfoInputs.cache
+C:\github\easytask\EasyTask.Example\obj\Debug\netcoreapp2.0\EasyTask.Example.AssemblyInfo.cs
